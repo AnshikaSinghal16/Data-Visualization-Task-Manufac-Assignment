@@ -1,9 +1,9 @@
 # Assignment 1 screenshot is attached here
-![Alt text](assignment1.png)
+![Alt text](assignment-1.png)
 
 
 # Assignment 2 screenshot is attached here
-![Alt text](assignment2.png)
+![Alt text](assignment-2.png)
 
 # Getting Started with Create React App
 
