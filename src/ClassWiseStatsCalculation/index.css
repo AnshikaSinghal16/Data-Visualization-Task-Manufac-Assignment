@@ -1,0 +1,26 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    width: 290px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .table-header{
+    display: flex;
+    flex-direction: row;
+  }
+  .table-sub-division{
+    display: flex;
+    flex-direction: row; 
+  }
+  
